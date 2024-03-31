@@ -1,6 +1,6 @@
 <h1>THIS IS THE SOURCE CODE TO CREATE A <b>TELEGRAM BOT</b> WHICH UITLISES THE <b>VIRUSTOTAL API</b> TO SCAN THE FILES SENT TO IT</h1>
 
-<h2>Follow the below steps to run the bot or watch the YouTube video : [link here]</h2>
+<h2>Follow the below steps to run the bot or watch the YouTube video : [https://youtu.be/J8AgswCPltk?si=nHnctYhRBfXD1o5C]</h2>
 <ol>
   <li>Go to https://t.me/BotFather and create a new bot and generate your bot token</li>
   <li>Sign up for a VirusTotal account and get your API key</li>
